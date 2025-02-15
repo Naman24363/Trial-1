@@ -1,2 +1,2 @@
 # Trial 1
-This ia my first trial git reppsitory
+This ia my first trial git repository
